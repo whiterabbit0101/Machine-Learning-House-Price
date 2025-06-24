@@ -1,5 +1,5 @@
 This is a machine learning algorithm that takes in housing data in CSV format and trains the model 
-predict home prices based on 80 metrics. Dataset obtained from kaggle.com
+to predict home prices based on 80 metrics. Dataset obtained from kaggle.com
 
 
 Main.py -- loads and cleans dataset, shows if values are missing, 
